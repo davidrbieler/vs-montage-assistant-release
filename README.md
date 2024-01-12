@@ -16,7 +16,7 @@ https://github.com/davidrbieler/vs-montage-assistant-release/assets/60126214/a60
 - Select the montage video exported from Volleystation
 - Select the desired speed you want the slow mo replays to be
 - Set the clip duration to the duration specified in Volleystation (seconds before + seconds after)
-
+![image](https://github.com/davidrbieler/vs-montage-assistant-release/assets/60126214/d87b5b30-0d71-4a0e-bf82-7194b39a245c)
 - Select the output folder
 - Press generate
 
