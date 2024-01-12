@@ -1,0 +1,1 @@
+# vs-montage-assistant-release
