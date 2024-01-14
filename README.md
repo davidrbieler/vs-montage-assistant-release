@@ -10,8 +10,8 @@ https://github.com/davidrbieler/vs-montage-assistant-release/assets/60126214/cdf
 #### After
 https://github.com/davidrbieler/vs-montage-assistant-release/assets/60126214/a60c3990-291f-4b5d-a8b9-cbe8cb976a63
 ### Download
-- https://github.com/davidrbieler/vs-montage-assistant-release/releases/tag/v0.1
-- Download the VS.Montage.Assistant.v0.1 for your operating system
+- https://github.com/davidrbieler/vs-montage-assistant-release/releases
+- Download the latest version for your operating system
 ### Usage
 - Run the application
 - Select the montage video exported from Volleystation
